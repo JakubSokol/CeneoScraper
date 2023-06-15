@@ -44,8 +44,9 @@ lang_from = "pl"
 lang_to = "en"
 translator = Translator(lang_to, lang_from)
 # product_code = input("Please enter product code: ")
-product_code = "36991221"
+# product_code = "36991221"
 # product_code="150607722"
+product_code = "150607717"
 url = f"https://www.ceneo.pl/{product_code}#tab=reviews"
 all_opinions = []
 

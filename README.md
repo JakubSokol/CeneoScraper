@@ -5,6 +5,8 @@
 - BeautifiulSoup4
 - Json
 - Os
+- Re
+- Translate
 
 ##CSS selectors of components of opinions in [Ceneo.pl](https://www.ceneo.pl/) service
 | Component | Name | Selector | Data type |
